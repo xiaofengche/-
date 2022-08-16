@@ -8,7 +8,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 扫描测试号二维码后会生成微信号，那个账号需要接收就扫码
 
 ## 新增测试模板
-模板标题: 自定义，例如: 宝宝，晚上好!  
+模板标题: 自定义，例如: 宝贝，晚上好!  
 模板内容参考:  
 ```
 {{date.DATA}}  

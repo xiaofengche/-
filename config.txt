@@ -1,0 +1,24 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "",
+# 公众号appSecret
+"app_secret": "",
+# 模板消息id
+"template_id": "",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": [""],
+"user": [""],
+
+
+# 信息配置
+"province": "",
+"city": "",
+"weather": "",
+"min_temperature": "",
+"max_temperature": "",
+#日期格式 2020-09-08
+"love_date": "",
+"birthday": ""
+
+}
